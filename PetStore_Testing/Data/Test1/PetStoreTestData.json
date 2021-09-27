@@ -1,0 +1,22 @@
+{
+  "petStoreService-baseUrl": "https://petstore.swagger.io/",
+
+  "AddNewPET": {
+    "id": 200,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "doggie.jpeg"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
+}
